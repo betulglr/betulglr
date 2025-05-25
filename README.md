@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 
 Hi! I'm Betül, a Software Support Specialist and a passionate developer + creator.
