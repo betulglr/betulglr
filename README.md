@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Betül</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="center">Hi 👋</h1>
 
-Hi! I'm Lexa, a Software Support Specialist and a passionate developer + creator.
+
+Hi! I'm Betül, a Software Support Specialist and a passionate developer + creator.
 
 I'm deeply curious about building things that work, look good, or make life easier. My interests span across:
 
