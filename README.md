@@ -24,3 +24,6 @@ I'm deeply curious about building things that work, look good, or make life easi
 </p>
 
 ![Betül's GitHub stats](https://github-readme-stats.vercel.app/api?username=betulglr&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=betulglr&layout=compact&theme=radical)
+
